@@ -1,0 +1,1 @@
+package com.vancl.xmw.service;import com.vancl.xmw.domain.User;public interface UserMapper{    public User getUser(int userId);}

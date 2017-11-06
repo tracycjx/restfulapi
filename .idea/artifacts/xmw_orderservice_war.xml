@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xmw-orderservice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="xmw-orderservice.war">
+      <element id="artifact" artifact-name="xmw-orderservice:war exploded" />
+    </root>
+  </artifact>
+</component>
